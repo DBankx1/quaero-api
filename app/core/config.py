@@ -1,4 +1,5 @@
 from pydantic_settings import BaseSettings, SettingsConfigDict
+import os
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
@@ -11,7 +12,14 @@ class Settings(BaseSettings):
     
     OPENAI_API_KEY: str
     
+    
     MONGODB_CONNECTION: str
+    
+    APP_DEFAULT_MODEL: str
+    
+    MONGODB_CORE_COLLECTION: str
     
     
 settings = Settings()  # type: ignore
+
+os.environ["OPENAI_API_KEY"] = settings.OPENAI_API_KEY
