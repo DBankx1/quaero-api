@@ -6,8 +6,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "beanie>=2.0.1",
-    "dotenv>=0.9.9",
     "fastapi[standard]>=0.128.0",
     "memori>=3.1.2",
     "openai-agents>=0.6.4",
+    "pydantic-settings>=2.12.0",
 ]
