@@ -1,4 +1,5 @@
 from sympy import fu
+from app.infrastructure import db
 from app.infrastructure.repository.business_repository import create_many_businesses, get_businesses_by_list_of_names
 from app.model.entity.business import Business
 import logging
@@ -13,30 +14,28 @@ async def ingest_businesses_from_search(task_id: str, businesses_from_search: li
     Adds businesses found from web AI search into database
     """
     try:
-        MATCH_THRESHOLD = 85
+        logger.info(f"Starting ingestion task {task_id} with {len(businesses_from_search)} businesses")
+        
+        if not businesses_from_search:
+            logger.info(f"Ingestion task {task_id} completed with 0 new businesses")
+            return
         
         new_businesses = []
         
-        logger.info(f"Starting ingestion task {task_id} with {len(businesses_from_search)} businesses")
-        
         business_names: list[str] = [business.name for business in businesses_from_search]
         
-        businesses_in_db: list[Business] = await get_businesses_by_list_of_names(business_names)
+        db_matches: list[Business] = await get_businesses_by_list_of_names(business_names, threshold_score=0.8)
         
-        if len(businesses_in_db) > 0:
-            for biz in businesses_from_search:
-                db_biz_names = [business.name for business in businesses_in_db]
-                print(db_biz_names)
-                result = process.extractOne(biz.name, db_biz_names, scorer=fuzz.token_set_ratio)
-                
-                if result is None:
-                    continue
-                
-                _, score, *_ = result
-                print(f"{biz.name} - {_} - {score} when matching")
-                
-                if score < MATCH_THRESHOLD:
-                    new_businesses.append(biz)
+        if len(db_matches) > 0:
+            existing_names = {
+                biz.name.lower().strip() for biz in db_matches
+            }
+            
+            new_businesses = [
+                business
+                for business in businesses_from_search
+                if business.name.lower().strip() not in existing_names
+            ]    
         else:
             new_businesses = businesses_from_search
         
