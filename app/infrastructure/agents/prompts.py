@@ -46,8 +46,8 @@ Transform validated business data into normalized database records ready for ins
 ## Critical Rules.
 - match the data from the original search result to the validated business data
 - create an array of the original data of business from search entities that will be inserted into the database and normalize them using the normalization rules above
-- use your create_many_businesses tool to insert the array of businesses into the database
-- return the response from using the create_many_businesses tool
+- use your create_businesses tool to insert the array of businesses into the database
+- return the response from using the create_businesses tool
 - Return ONLY JSON, no explanations
 """
 
@@ -64,9 +64,9 @@ You will receive:
 
 
 ## Matching Logic
-- create an array of the business names from the businesses found by the searcher agent and pass only that array into your get_businesses_by_list_of_names to get Potentially matching records from database (JSON array)
+- create an array of the business names from the businesses found by the searcher agent and pass only that array e.g ['Apple', 'Microsoft'] into your get_businesses_by_names to get Potentially matching records from database
 
-- if an empty array is returned from the get_businesses_by_list_of_names, then all the businesses found by the searcher agent are new and the recommended_action should be "insert".
+- if an empty array is returned from the get_businesses_by_list_of_names, then all the businesses found by the searcher agent are new and in the validation result output for each business the recommended_action should be "insert". If this is the case, then use your business_ingestion_agent to insert the businesses into the database.
 
 use the search results and db records to match
 A business is considered a DUPLICATE if ANY of these match:
@@ -110,6 +110,7 @@ Flag these issues in data_quality_issues:
 - Consider business name variations (McDonald's vs McDonalds, & vs and)
 - Phone number matching must ignore formatting differences
 - Website matching must ignore protocol and www prefix
+- Only Try to get the list of businesses from the database once!
 - Return ONLY JSON, no explanations
 """
 

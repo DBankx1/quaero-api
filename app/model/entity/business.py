@@ -1,5 +1,6 @@
+from typing import Annotated
 from pydantic import BaseModel, Field
-from beanie import Document
+from beanie import Document, Indexed
 
 class BusinessAddress(BaseModel):
     street: str | None = Field(description="Street address of the business.")
@@ -9,7 +10,7 @@ class BusinessAddress(BaseModel):
     country: str = Field(description="Country of the business.")
 
 class Business(Document):
-    name: str = Field(description="Name of the business found.")
+    name: Annotated[int, Indexed()] = Field(description="Name of the business found.") 
     address: BusinessAddress = Field(description="Address of the business found. This field is required and every business should have an address")
     siteUrl: str | None = Field(description="Website of the business found.", default=None)
     phone: str | None = Field(description="Phone number of the business found.", default=None)
