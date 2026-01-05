@@ -16,6 +16,7 @@ class Business(Document):
     phone: str | None = Field(description="Phone number of the business found.", default=None)
     email: str | None = Field(description="Email of the business found.", default=None)
     rating: int | None = Field(description="Rating of the business based on testimonials and reviews you can find. The rating should be between 0 and 5", default=0)
+    category_slugs: Annotated[list[str], Indexed()] = Field(description="The slugs of the categories that the business belongs to", default_factory=list)
     
     class Settings:
         name = "businesses"

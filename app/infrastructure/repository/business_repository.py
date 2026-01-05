@@ -19,7 +19,7 @@ async def get_business_by_name(business_name: str, limit:int = 1, threshold_scor
     pipeline = [
         {
             "$search": {
-                "index": "business_name_search",
+                "index": "business_search_index",
                 "text": {
                     "query": business_name,
                     "path": "name",
@@ -61,3 +61,48 @@ async def create_many_businesses(businesses: list[Business]) -> list[str]:
     """Create many business entities"""
     business = await Business.insert_many(businesses)
     return business.inserted_ids
+
+async def get_businesses_by_relevant_categories(keywords: list[str], limit: int = 20) -> list[Business]:
+    """Gets a list of businesses by relevant categories"""
+    should_clauses = []
+
+    for kw in keywords:
+        should_clauses.append({
+            "autocomplete": {
+                "query": kw,
+                "path": "category_slugs",
+                "fuzzy": {
+                    "maxEdits": 2,
+                    "prefixLength": 1
+                }
+            }
+        })
+
+    pipeline = [
+        {
+            "$search": {
+                "index": "business_search_index",
+                "compound": {
+                    "should": should_clauses,
+                    "minimumShouldMatch": 1
+                }
+            }
+        },
+        {"$limit": limit},
+        {
+            "$project": {
+                "name": 1,
+                "category_slugs": 1,
+                "rating": 1,
+                "address": 1,
+                "siteUrl": 1,
+                "phone": 1,
+                "email": 1,
+                "_id": 0
+            }
+        }
+    ]
+    
+    businesses = await Business.aggregate(pipeline).to_list()
+
+    return [Business(**business) for business in businesses]

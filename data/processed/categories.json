@@ -1,0 +1,3938 @@
+[
+  {
+    "slug": "csa",
+    "name": "Csa",
+    "level": "primary",
+    "primary": "Csa",
+    "secondary": null,
+    "parent_slug": null
+  },
+  {
+    "slug": "csa.coffee-tea",
+    "name": "Coffee & Tea",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Coffee & Tea",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.convenience-stores",
+    "name": "Convenience Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Convenience Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.desserts",
+    "name": "Desserts",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Desserts",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.do-it-yourself-food",
+    "name": "Do-It-Yourself Food",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Do-It-Yourself Food",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.donuts",
+    "name": "Donuts",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Donuts",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.farmers-market",
+    "name": "Farmers Market",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Farmers Market",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.food-delivery-services",
+    "name": "Food Delivery Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Food Delivery Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.food-trucks",
+    "name": "Food Trucks",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Food Trucks",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gelato",
+    "name": "Gelato",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gelato",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.grocery",
+    "name": "Grocery",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Grocery",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.ice-cream-frozen-yogust",
+    "name": "Ice Cream & Frozen Yogust",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Ice Cream & Frozen Yogust",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.internet-cafes",
+    "name": "Internet Cafes",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Internet Cafes",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.juice-bars-smoothies",
+    "name": "Juice Bars & Smoothies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Juice Bars & Smoothies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pretzels",
+    "name": "Pretzels",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pretzels",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shaved-ice",
+    "name": "Shaved Ice",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shaved Ice",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.specialty-food",
+    "name": "Specialty Food",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Specialty Food",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.candy-stores",
+    "name": "Candy Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Candy Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cheese-shops",
+    "name": "Cheese Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cheese Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.chocolatiers-shops",
+    "name": "Chocolatiers & Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Chocolatiers & Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.ethnic-food",
+    "name": "Ethnic Food",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Ethnic Food",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fruits-veggies",
+    "name": "Fruits & Veggies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fruits & Veggies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.health-markets",
+    "name": "Health Markets",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Health Markets",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.herbs-spices",
+    "name": "Herbs & Spices",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Herbs & Spices",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.meat-shops",
+    "name": "Meat Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Meat Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.seafood-markets",
+    "name": "Seafood Markets",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Seafood Markets",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.street-vendors",
+    "name": "Street Vendors",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Street Vendors",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tea-rooms",
+    "name": "Tea Rooms",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tea Rooms",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.wineries",
+    "name": "Wineries",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Wineries",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.health-medical",
+    "name": "Health & Medical",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Health & Medical",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.acupuncture",
+    "name": "Acupuncture",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Acupuncture",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cannabis-clinics",
+    "name": "Cannabis Clinics",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cannabis Clinics",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.chiropractors",
+    "name": "Chiropractors",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Chiropractors",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.counseling-mental-health",
+    "name": "Counseling & Mental Health",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Counseling & Mental Health",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dentists",
+    "name": "Dentists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dentists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cosmetic-dentists",
+    "name": "Cosmetic Dentists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cosmetic Dentists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.endodontists",
+    "name": "Endodontists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Endodontists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.general-dentistry",
+    "name": "General Dentistry",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "General Dentistry",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.oral-surgeons",
+    "name": "Oral Surgeons",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Oral Surgeons",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.orthodontists",
+    "name": "Orthodontists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Orthodontists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pediatric-dentists",
+    "name": "Pediatric Dentists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pediatric Dentists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.periodontists",
+    "name": "Periodontists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Periodontists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.diagnostic-services",
+    "name": "Diagnostic Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Diagnostic Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.diagnostic-imaging",
+    "name": "Diagnostic Imaging",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Diagnostic Imaging",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.laboratory-testing",
+    "name": "Laboratory Testing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Laboratory Testing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.doctors",
+    "name": "Doctors",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Doctors",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.allergists",
+    "name": "Allergists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Allergists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.anesthesiologists",
+    "name": "Anesthesiologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Anesthesiologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.audiologist",
+    "name": "Audiologist",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Audiologist",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cardiologists",
+    "name": "Cardiologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cardiologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cosmetic-surgeons",
+    "name": "Cosmetic Surgeons",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cosmetic Surgeons",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dermatologists",
+    "name": "Dermatologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dermatologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.ear-nose-throat",
+    "name": "Ear Nose & Throat",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Ear Nose & Throat",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.family-practice",
+    "name": "Family Practice",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Family Practice",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fertility",
+    "name": "Fertility",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fertility",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gastroenterologist",
+    "name": "Gastroenterologist",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gastroenterologist",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gerontologists",
+    "name": "Gerontologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gerontologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.internal-medicine",
+    "name": "Internal Medicine",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Internal Medicine",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.naturopathic-holistic",
+    "name": "Naturopathic/Holistic",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Naturopathic/Holistic",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.neurologist",
+    "name": "Neurologist",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Neurologist",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.obstretricians-gynecologists",
+    "name": "Obstretricians & Gynecologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Obstretricians & Gynecologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.oncologist",
+    "name": "Oncologist",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Oncologist",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.ophthalmologists",
+    "name": "Ophthalmologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Ophthalmologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.orthopedists",
+    "name": "Orthopedists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Orthopedists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.osteopathic-physicians",
+    "name": "Osteopathic Physicians",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Osteopathic Physicians",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pediatricians",
+    "name": "Pediatricians",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pediatricians",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.podiatrists",
+    "name": "Podiatrists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Podiatrists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.proctologists",
+    "name": "Proctologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Proctologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.psychiatrists",
+    "name": "Psychiatrists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Psychiatrists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pulmonologists",
+    "name": "Pulmonologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pulmonologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sports-medicine",
+    "name": "Sports Medicine",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sports Medicine",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tattoo-removal",
+    "name": "Tattoo Removal",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tattoo Removal",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.urologists",
+    "name": "Urologists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Urologists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hearing-aid-providers",
+    "name": "Hearing Aid Providers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hearing Aid Providers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-health-care",
+    "name": "Home Health Care",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Health Care",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hospice",
+    "name": "Hospice",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hospice",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hospitals",
+    "name": "Hospitals",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hospitals",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.lactation-services",
+    "name": "Lactation Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Lactation Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.laser-eye-surgery-lasik",
+    "name": "Laser Eye Surgery/Lasik",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Laser Eye Surgery/Lasik",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.massage-therapy",
+    "name": "Massage Therapy",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Massage Therapy",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.medical-centers",
+    "name": "Medical Centers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Medical Centers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.medical-spas",
+    "name": "Medical Spas",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Medical Spas",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.medical-transportation",
+    "name": "Medical Transportation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Medical Transportation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.midwives",
+    "name": "Midwives",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Midwives",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.nutritionists",
+    "name": "Nutritionists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Nutritionists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.occupational-therapy",
+    "name": "Occupational Therapy",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Occupational Therapy",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.optometrists",
+    "name": "Optometrists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Optometrists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.physical-therapy",
+    "name": "Physical Therapy",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Physical Therapy",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.reflexology",
+    "name": "Reflexology",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Reflexology",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.rehabilitation-center",
+    "name": "Rehabilitation Center",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Rehabilitation Center",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.retirement-homes",
+    "name": "Retirement Homes",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Retirement Homes",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.speech-therapists",
+    "name": "Speech Therapists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Speech Therapists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.traditional-chinese-medicine",
+    "name": "Traditional Chinese Medicine",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Traditional Chinese Medicine",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.urgent-care",
+    "name": "Urgent Care",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Urgent Care",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.weight-loss-centers",
+    "name": "Weight Loss Centers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Weight Loss Centers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-services",
+    "name": "Home Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.building-supplies",
+    "name": "Building Supplies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Building Supplies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.carpet-installation",
+    "name": "Carpet Installation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Carpet Installation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.carpeting",
+    "name": "Carpeting",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Carpeting",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.contractors",
+    "name": "Contractors",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Contractors",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.damage-restoration",
+    "name": "Damage Restoration",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Damage Restoration",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.electricians",
+    "name": "Electricians",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Electricians",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.flooring",
+    "name": "Flooring",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Flooring",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.garage-door-services",
+    "name": "Garage Door Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Garage Door Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gardeners",
+    "name": "Gardeners",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gardeners",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.handyman",
+    "name": "Handyman",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Handyman",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-cleaning",
+    "name": "Home Cleaning",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Cleaning",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-inspectors",
+    "name": "Home Inspectors",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Inspectors",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-organization",
+    "name": "Home Organization",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Organization",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-theatre-installation",
+    "name": "Home Theatre Installation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Theatre Installation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-window-tinting",
+    "name": "Home Window Tinting",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Window Tinting",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.interior-design",
+    "name": "Interior Design",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Interior Design",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.internet-service-providers",
+    "name": "Internet Service Providers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Internet Service Providers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.irrigation",
+    "name": "Irrigation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Irrigation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.keys-locksmith",
+    "name": "Keys & Locksmith",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Keys & Locksmith",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.landscape-architects",
+    "name": "Landscape Architects",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Landscape Architects",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.landscaping",
+    "name": "Landscaping",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Landscaping",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.lighting-fixtures-equipment",
+    "name": "Lighting Fixtures & Equipment",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Lighting Fixtures & Equipment",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.masonry-concrete",
+    "name": "Masonry/Concrete",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Masonry/Concrete",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.movers",
+    "name": "Movers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Movers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.painters",
+    "name": "Painters",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Painters",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.plumbing",
+    "name": "Plumbing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Plumbing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pool-cleaners",
+    "name": "Pool Cleaners",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pool Cleaners",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.real-estate",
+    "name": "Real Estate",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Real Estate",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.apartments",
+    "name": "Apartments",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Apartments",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.commercial-real-estate",
+    "name": "Commercial Real Estate",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Commercial Real Estate",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-staging",
+    "name": "Home Staging",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Staging",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mortgage-brokers",
+    "name": "Mortgage Brokers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mortgage Brokers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.property-management",
+    "name": "Property Management",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Property Management",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.real-estate-agents",
+    "name": "Real Estate Agents",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Real Estate Agents",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.real-estate-services",
+    "name": "Real Estate Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Real Estate Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shared-office-spaces",
+    "name": "Shared Office Spaces",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shared Office Spaces",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.university-housing",
+    "name": "University Housing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "University Housing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.roofing",
+    "name": "Roofing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Roofing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.security-systems",
+    "name": "Security Systems",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Security Systems",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shades-blinds",
+    "name": "Shades & Blinds",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shades & Blinds",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.solar-installation",
+    "name": "Solar Installation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Solar Installation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.television-service-providers",
+    "name": "Television Service Providers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Television Service Providers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tree-services",
+    "name": "Tree Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tree Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.utilities",
+    "name": "Utilities",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Utilities",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.window-washing",
+    "name": "Window Washing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Window Washing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.windows-installation",
+    "name": "Windows Installation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Windows Installation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hotels-travel",
+    "name": "Hotels & Travel",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hotels & Travel",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.airports",
+    "name": "Airports",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Airports",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bed-breakfast",
+    "name": "Bed & Breakfast",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bed & Breakfast",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.campgrounds",
+    "name": "Campgrounds",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Campgrounds",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.car-rental",
+    "name": "Car Rental",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Car Rental",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.guest-houses",
+    "name": "Guest Houses",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Guest Houses",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hostels",
+    "name": "Hostels",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hostels",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hotels",
+    "name": "Hotels",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hotels",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.motorcycle-rental",
+    "name": "Motorcycle Rental",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Motorcycle Rental",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.resorts",
+    "name": "Resorts",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Resorts",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.ski-resorts",
+    "name": "Ski Resorts",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Ski Resorts",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tours",
+    "name": "Tours",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tours",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.train-stations",
+    "name": "Train Stations",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Train Stations",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.transportation",
+    "name": "Transportation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Transportation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.airlines",
+    "name": "Airlines",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Airlines",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.airport-shuttles",
+    "name": "Airport Shuttles",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Airport Shuttles",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.limos",
+    "name": "Limos",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Limos",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.public-transportation",
+    "name": "Public Transportation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Public Transportation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.taxis",
+    "name": "Taxis",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Taxis",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.travel-services",
+    "name": "Travel Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Travel Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.vacation-rental-agents",
+    "name": "Vacation Rental Agents",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Vacation Rental Agents",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.vacation-rentals",
+    "name": "Vacation Rentals",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Vacation Rentals",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.local-flavor",
+    "name": "Local Flavor",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Local Flavor",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.yelp-events",
+    "name": "Yelp Events",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Yelp Events",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.local-services",
+    "name": "Local Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Local Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.appliances-repair",
+    "name": "Appliances & Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Appliances & Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bail-bondsmen",
+    "name": "Bail Bondsmen",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bail Bondsmen",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bike-repair-maintenance",
+    "name": "Bike Repair/Maintenance",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bike Repair/Maintenance",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.carpet-cleaning",
+    "name": "Carpet Cleaning",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Carpet Cleaning",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.child-care-day-care",
+    "name": "Child Care & Day Care",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Child Care & Day Care",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.community-service-non-profit",
+    "name": "Community Service/Non-Profit",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Community Service/Non-Profit",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.couriers-delivery-services",
+    "name": "Couriers & Delivery Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Couriers & Delivery Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dry-cleaning-laundry",
+    "name": "Dry Cleaning & Laundry",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dry Cleaning & Laundry",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.electronics-repair",
+    "name": "Electronics Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Electronics Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.funeral-services-cemeteries",
+    "name": "Funeral Services & Cemeteries",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Funeral Services & Cemeteries",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.furniture-reupholstery",
+    "name": "Furniture Reupholstery",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Furniture Reupholstery",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.data-recovery",
+    "name": "Data Recovery",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Data Recovery",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mobile-phone-repair",
+    "name": "Mobile Phone Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mobile Phone Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.jewelry-repair",
+    "name": "Jewelry Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Jewelry Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.junk-removal-hauling",
+    "name": "Junk Removal & Hauling",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Junk Removal & Hauling",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.nanny-services",
+    "name": "Nanny Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Nanny Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.notaries",
+    "name": "Notaries",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Notaries",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pest-control",
+    "name": "Pest Control",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pest Control",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.printing-services",
+    "name": "Printing Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Printing Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.recording-rehearsal-studios",
+    "name": "Recording & Rehearsal Studios",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Recording & Rehearsal Studios",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.recycling-center",
+    "name": "Recycling Center",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Recycling Center",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.screen-printing",
+    "name": "Screen Printing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Screen Printing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.screen-printing-t-shirt-printing",
+    "name": "Screen Printing/T-Shirt Printing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Screen Printing/T-Shirt Printing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.self-storage",
+    "name": "Self Storage",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Self Storage",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sewing-alterations",
+    "name": "Sewing & Alterations",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sewing & Alterations",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shipping-centers",
+    "name": "Shipping Centers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shipping Centers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shoe-repair",
+    "name": "Shoe Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shoe Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.snow-removal",
+    "name": "Snow Removal",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Snow Removal",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.watch-repair",
+    "name": "Watch Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Watch Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mass-media",
+    "name": "Mass Media",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mass Media",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.print-media",
+    "name": "Print Media",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Print Media",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.radio-stations",
+    "name": "Radio Stations",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Radio Stations",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.television-stations",
+    "name": "Television Stations",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Television Stations",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.nightlife",
+    "name": "Nightlife",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Nightlife",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.adult-entertainment",
+    "name": "Adult Entertainment",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Adult Entertainment",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bars",
+    "name": "Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.champagne-bars",
+    "name": "Champagne Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Champagne Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cocktail-bars",
+    "name": "Cocktail Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cocktail Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dive-bars",
+    "name": "Dive Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dive Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gay-bars",
+    "name": "Gay Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gay Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hookah-bars",
+    "name": "Hookah Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hookah Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.lounges",
+    "name": "Lounges",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Lounges",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pubs",
+    "name": "Pubs",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pubs",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sports-bars",
+    "name": "Sports Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sports Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.wine-bars",
+    "name": "Wine Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Wine Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.comedy-clubs",
+    "name": "Comedy Clubs",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Comedy Clubs",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.country-dance-halls",
+    "name": "Country Dance Halls",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Country Dance Halls",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dance-clubs",
+    "name": "Dance Clubs",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dance Clubs",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.jazz-blues",
+    "name": "Jazz & Blues",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Jazz & Blues",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.karaoke",
+    "name": "Karaoke",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Karaoke",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.music-venues",
+    "name": "Music Venues",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Music Venues",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.piano-bars",
+    "name": "Piano Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Piano Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pool-halls",
+    "name": "Pool Halls",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pool Halls",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pets",
+    "name": "Pets",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pets",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.animal-shelters",
+    "name": "Animal Shelters",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Animal Shelters",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.horse-boarding",
+    "name": "Horse Boarding",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Horse Boarding",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pet-services",
+    "name": "Pet Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pet Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dog-walkers",
+    "name": "Dog Walkers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dog Walkers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pet-boarding-pet-sitting",
+    "name": "Pet Boarding/Pet Sitting",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pet Boarding/Pet Sitting",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pet-groomers",
+    "name": "Pet Groomers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pet Groomers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pet-training",
+    "name": "Pet Training",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pet Training",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pet-stores",
+    "name": "Pet Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pet Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.veterinarians",
+    "name": "Veterinarians",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Veterinarians",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.professional-services",
+    "name": "Professional Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Professional Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.accountants",
+    "name": "Accountants",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Accountants",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.advertising",
+    "name": "Advertising",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Advertising",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.architects",
+    "name": "Architects",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Architects",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.boat-repair",
+    "name": "Boat Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Boat Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.career-counseling",
+    "name": "Career Counseling",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Career Counseling",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.editorial-services",
+    "name": "Editorial Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Editorial Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.employment-agencies",
+    "name": "Employment Agencies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Employment Agencies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.graphic-design",
+    "name": "Graphic Design",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Graphic Design",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.internet-service-providers",
+    "name": "Internet Service Providers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Internet Service Providers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.lawyers",
+    "name": "Lawyers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Lawyers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bankruptcy-law",
+    "name": "Bankruptcy Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bankruptcy Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.business-law",
+    "name": "Business Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Business Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.criminal-defense-law",
+    "name": "Criminal Defense Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Criminal Defense Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.divorce-family-law",
+    "name": "Divorce & Family Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Divorce & Family Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.employment-law",
+    "name": "Employment Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Employment Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.estate-planning-law",
+    "name": "Estate Planning Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Estate Planning Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.general-litigation",
+    "name": "General Litigation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "General Litigation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.immigration-law",
+    "name": "Immigration Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Immigration Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.personal-injury-law",
+    "name": "Personal Injury Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Personal Injury Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.real-estate-law",
+    "name": "Real Estate Law",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Real Estate Law",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.legal-services",
+    "name": "Legal Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Legal Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.life-coach",
+    "name": "Life Coach",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Life Coach",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.marketing",
+    "name": "Marketing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Marketing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.matchmakers",
+    "name": "Matchmakers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Matchmakers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.office-cleaning",
+    "name": "Office Cleaning",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Office Cleaning",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.payroll-services",
+    "name": "Payroll Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Payroll Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.personal-assistants",
+    "name": "Personal Assistants",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Personal Assistants",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.private-investigation",
+    "name": "Private Investigation",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Private Investigation",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.public-relations",
+    "name": "Public Relations",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Public Relations",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.talent-agencies",
+    "name": "Talent Agencies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Talent Agencies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.taxidermy",
+    "name": "Taxidermy",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Taxidermy",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.translation-services",
+    "name": "Translation Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Translation Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.video-film-production",
+    "name": "Video/Film Production",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Video/Film Production",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.web-design",
+    "name": "Web Design",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Web Design",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.public-services-government",
+    "name": "Public Services & Government",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Public Services & Government",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.courthouses",
+    "name": "Courthouses",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Courthouses",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.embassy",
+    "name": "Embassy",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Embassy",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fire-departments",
+    "name": "Fire Departments",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fire Departments",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.landmarks-historical-buildings",
+    "name": "Landmarks & Historical Buildings",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Landmarks & Historical Buildings",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.libraries",
+    "name": "Libraries",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Libraries",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.police-departments",
+    "name": "Police Departments",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Police Departments",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.post-offices",
+    "name": "Post Offices",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Post Offices",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.real-estate",
+    "name": "Real Estate",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Real Estate",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.apartments",
+    "name": "Apartments",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Apartments",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.commercial-real-estate",
+    "name": "Commercial Real Estate",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Commercial Real Estate",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-staging",
+    "name": "Home Staging",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Staging",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mortgage-brokers",
+    "name": "Mortgage Brokers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mortgage Brokers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.property-management",
+    "name": "Property Management",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Property Management",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.real-estate-agents",
+    "name": "Real Estate Agents",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Real Estate Agents",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.real-estate-services",
+    "name": "Real Estate Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Real Estate Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shared-office-spaces",
+    "name": "Shared Office Spaces",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shared Office Spaces",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.university-housing",
+    "name": "University Housing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "University Housing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.religious-organizations",
+    "name": "Religious Organizations",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Religious Organizations",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.buddhist-temples",
+    "name": "Buddhist Temples",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Buddhist Temples",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.churches",
+    "name": "Churches",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Churches",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hindu-temples",
+    "name": "Hindu Temples",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hindu Temples",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mosques",
+    "name": "Mosques",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mosques",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.synagogues",
+    "name": "Synagogues",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Synagogues",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.restaurants",
+    "name": "Restaurants",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Restaurants",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.afghan",
+    "name": "Afghan",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Afghan",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.african",
+    "name": "African",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "African",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.senegalese",
+    "name": "Senegalese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Senegalese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.south-african",
+    "name": "South African",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "South African",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.american-new",
+    "name": "American (New)",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "American (New)",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.american-traditional",
+    "name": "American (Traditional)",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "American (Traditional)",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.arabian",
+    "name": "Arabian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Arabian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.argentine",
+    "name": "Argentine",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Argentine",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.armenian",
+    "name": "Armenian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Armenian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.asian-fusion",
+    "name": "Asian Fusion",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Asian Fusion",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.australian",
+    "name": "Australian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Australian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.austrian",
+    "name": "Austrian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Austrian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bangladeshi",
+    "name": "Bangladeshi",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bangladeshi",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.barbeque",
+    "name": "Barbeque",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Barbeque",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.basque",
+    "name": "Basque",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Basque",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.belgian",
+    "name": "Belgian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Belgian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.brasseries",
+    "name": "Brasseries",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Brasseries",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.brazilian",
+    "name": "Brazilian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Brazilian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.breakfast-brunch",
+    "name": "Breakfast & Brunch",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Breakfast & Brunch",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.british",
+    "name": "British",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "British",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.buffets",
+    "name": "Buffets",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Buffets",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.burgers",
+    "name": "Burgers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Burgers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.burmese",
+    "name": "Burmese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Burmese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cafes",
+    "name": "Cafes",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cafes",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cafeteria",
+    "name": "Cafeteria",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cafeteria",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cajun-creole",
+    "name": "Cajun/Creole",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cajun/Creole",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cambodian",
+    "name": "Cambodian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cambodian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.caribbean",
+    "name": "Caribbean",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Caribbean",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dominican",
+    "name": "Dominican",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dominican",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.haitian",
+    "name": "Haitian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Haitian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.puerto-rican",
+    "name": "Puerto Rican",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Puerto Rican",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.trinidadian",
+    "name": "Trinidadian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Trinidadian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.catalan",
+    "name": "Catalan",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Catalan",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cheesesteaks",
+    "name": "Cheesesteaks",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cheesesteaks",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.chicken-wings",
+    "name": "Chicken Wings",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Chicken Wings",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.chinese",
+    "name": "Chinese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Chinese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cantonese",
+    "name": "Cantonese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cantonese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.dim-sum",
+    "name": "Dim Sum",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Dim Sum",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shanghainese",
+    "name": "Shanghainese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shanghainese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.szechuan",
+    "name": "Szechuan",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Szechuan",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.comfort-food",
+    "name": "Comfort Food",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Comfort Food",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.creperies",
+    "name": "Creperies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Creperies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cuban",
+    "name": "Cuban",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cuban",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.czech",
+    "name": "Czech",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Czech",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.delis",
+    "name": "Delis",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Delis",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.diners",
+    "name": "Diners",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Diners",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.ethiopian",
+    "name": "Ethiopian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Ethiopian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fast-food",
+    "name": "Fast Food",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fast Food",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.filipino",
+    "name": "Filipino",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Filipino",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fish-chips",
+    "name": "Fish & Chips",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fish & Chips",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fondue",
+    "name": "Fondue",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fondue",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.food-court",
+    "name": "Food Court",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Food Court",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.food-stands",
+    "name": "Food Stands",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Food Stands",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.french",
+    "name": "French",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "French",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gastropubs",
+    "name": "Gastropubs",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gastropubs",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.german",
+    "name": "German",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "German",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gluten-free",
+    "name": "Gluten-Free",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gluten-Free",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.greek",
+    "name": "Greek",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Greek",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.halal",
+    "name": "Halal",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Halal",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hawaiian",
+    "name": "Hawaiian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hawaiian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.himalayan-nepalese",
+    "name": "Himalayan/Nepalese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Himalayan/Nepalese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hot-dogs",
+    "name": "Hot Dogs",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hot Dogs",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hot-pot",
+    "name": "Hot Pot",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hot Pot",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hungarian",
+    "name": "Hungarian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hungarian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.iberian",
+    "name": "Iberian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Iberian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.indian",
+    "name": "Indian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Indian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.indonesian",
+    "name": "Indonesian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Indonesian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.irish",
+    "name": "Irish",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Irish",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.italian",
+    "name": "Italian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Italian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.japanese",
+    "name": "Japanese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Japanese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.korean",
+    "name": "Korean",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Korean",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.kosher",
+    "name": "Kosher",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Kosher",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.laotian",
+    "name": "Laotian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Laotian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.latin-american",
+    "name": "Latin American",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Latin American",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.columbian",
+    "name": "Columbian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Columbian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.salvadoran",
+    "name": "Salvadoran",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Salvadoran",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.venezuelan",
+    "name": "Venezuelan",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Venezuelan",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.live-raw-food",
+    "name": "Live/Raw Food",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Live/Raw Food",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.malaysian",
+    "name": "Malaysian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Malaysian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.meditteranean",
+    "name": "Meditteranean",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Meditteranean",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mexican",
+    "name": "Mexican",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mexican",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.middle-eastern",
+    "name": "Middle Eastern",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Middle Eastern",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.egyptian",
+    "name": "Egyptian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Egyptian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.lebanese",
+    "name": "Lebanese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Lebanese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.modern-european",
+    "name": "Modern European",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Modern European",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mongolian",
+    "name": "Mongolian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mongolian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pakistani",
+    "name": "Pakistani",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pakistani",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.persian-iranian",
+    "name": "Persian/Iranian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Persian/Iranian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.peruvian",
+    "name": "Peruvian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Peruvian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pizza",
+    "name": "Pizza",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pizza",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.polish",
+    "name": "Polish",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Polish",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.portuguese",
+    "name": "Portuguese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Portuguese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.russian",
+    "name": "Russian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Russian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.salad",
+    "name": "Salad",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Salad",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sandwiches",
+    "name": "Sandwiches",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sandwiches",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.scandinavian",
+    "name": "Scandinavian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Scandinavian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.scottish",
+    "name": "Scottish",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Scottish",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.seafood",
+    "name": "Seafood",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Seafood",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.singaporean",
+    "name": "Singaporean",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Singaporean",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.slovakian",
+    "name": "Slovakian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Slovakian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.soul-food",
+    "name": "Soul Food",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Soul Food",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.soup",
+    "name": "Soup",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Soup",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.southern",
+    "name": "Southern",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Southern",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.spanish",
+    "name": "Spanish",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Spanish",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.steakhouses",
+    "name": "Steakhouses",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Steakhouses",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sushi-bars",
+    "name": "Sushi Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sushi Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.taiwanese",
+    "name": "Taiwanese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Taiwanese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tapas-bars",
+    "name": "Tapas Bars",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tapas Bars",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tapas-small-plates",
+    "name": "Tapas/Small Plates",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tapas/Small Plates",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tex-mex",
+    "name": "Tex-Mex",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tex-Mex",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.thai",
+    "name": "Thai",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Thai",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.turkish",
+    "name": "Turkish",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Turkish",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.ukranian",
+    "name": "Ukranian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Ukranian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.vegan",
+    "name": "Vegan",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Vegan",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.vegetarian",
+    "name": "Vegetarian",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Vegetarian",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.vietnamese",
+    "name": "Vietnamese",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Vietnamese",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shopping",
+    "name": "Shopping",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shopping",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.adult",
+    "name": "Adult",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Adult",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.antiques",
+    "name": "Antiques",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Antiques",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.art-galleries",
+    "name": "Art Galleries",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Art Galleries",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.arts-crafts",
+    "name": "Arts & Crafts",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Arts & Crafts",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.art-supplies",
+    "name": "Art Supplies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Art Supplies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cards-stationery",
+    "name": "Cards & Stationery",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cards & Stationery",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.costumes",
+    "name": "Costumes",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Costumes",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fabric-stores",
+    "name": "Fabric Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fabric Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.framing",
+    "name": "Framing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Framing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.auction-houses",
+    "name": "Auction Houses",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Auction Houses",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.baby-gear-furniture",
+    "name": "Baby Gear & Furniture",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Baby Gear & Furniture",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bespoke-clothing",
+    "name": "Bespoke Clothing",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bespoke Clothing",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.books-mags-music-video",
+    "name": "Books, Mags, Music & Video",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Books, Mags, Music & Video",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bookstores",
+    "name": "Bookstores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bookstores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.comic-books",
+    "name": "Comic Books",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Comic Books",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.newspapers-magazines",
+    "name": "Newspapers & Magazines",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Newspapers & Magazines",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.videos-video-game-rental",
+    "name": "Videos & Video Game Rental",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Videos & Video Game Rental",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.vinyl-records",
+    "name": "Vinyl Records",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Vinyl Records",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bridal",
+    "name": "Bridal",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bridal",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.computers",
+    "name": "Computers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Computers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cosmetics-beauty-supply",
+    "name": "Cosmetics & Beauty Supply",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cosmetics & Beauty Supply",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.department-stores",
+    "name": "Department Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Department Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.discount-store",
+    "name": "Discount Store",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Discount Store",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.drugstores",
+    "name": "Drugstores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Drugstores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.electronics-repair",
+    "name": "Electronics Repair",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Electronics Repair",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.eyewear-opticians",
+    "name": "Eyewear & Opticians",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Eyewear & Opticians",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fashion",
+    "name": "Fashion",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fashion",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.accessories",
+    "name": "Accessories",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Accessories",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.department-stores",
+    "name": "Department Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Department Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.formal-wear",
+    "name": "Formal Wear",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Formal Wear",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hats",
+    "name": "Hats",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hats",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.leather-goods",
+    "name": "Leather Goods",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Leather Goods",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.lingerie",
+    "name": "Lingerie",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Lingerie",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.maternity-wear",
+    "name": "Maternity Wear",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Maternity Wear",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.plus-size-fashion",
+    "name": "Plus Size Fashion",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Plus Size Fashion",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shoe-stores",
+    "name": "Shoe Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shoe Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sports-wear",
+    "name": "Sports Wear",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sports Wear",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.surf-shop",
+    "name": "Surf Shop",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Surf Shop",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.swimwear",
+    "name": "Swimwear",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Swimwear",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.used-vintage-consignment",
+    "name": "Used, Vintage & Consignment",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Used, Vintage & Consignment",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.fireworks",
+    "name": "Fireworks",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Fireworks",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.flea-markets",
+    "name": "Flea Markets",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Flea Markets",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.flowers-gifts",
+    "name": "Flowers & Gifts",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Flowers & Gifts",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.cards-stationery",
+    "name": "Cards & Stationery",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Cards & Stationery",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.florists",
+    "name": "Florists",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Florists",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.gift-shops",
+    "name": "Gift Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Gift Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.golf-equipment-shops",
+    "name": "Golf Equipment Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Golf Equipment Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.guns-ammo",
+    "name": "Guns & Ammo",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Guns & Ammo",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hobby-shops",
+    "name": "Hobby Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hobby Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-garden",
+    "name": "Home & Garden",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home & Garden",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.appliances",
+    "name": "Appliances",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Appliances",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.furniture-stores",
+    "name": "Furniture Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Furniture Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hardware-stores",
+    "name": "Hardware Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hardware Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.home-decor",
+    "name": "Home Décor",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Home Décor",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.hot-tub-pool",
+    "name": "Hot Tub & Pool",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Hot Tub & Pool",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.kitchen-bath",
+    "name": "Kitchen & Bath",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Kitchen & Bath",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mattresses",
+    "name": "Mattresses",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mattresses",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.nurseries-gardening",
+    "name": "Nurseries & Gardening",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Nurseries & Gardening",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.jewelry",
+    "name": "Jewelry",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Jewelry",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.knitting-supplies",
+    "name": "Knitting Supplies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Knitting Supplies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.luggage",
+    "name": "Luggage",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Luggage",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.medical-supplies",
+    "name": "Medical Supplies",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Medical Supplies",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.mobile-phones",
+    "name": "Mobile Phones",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Mobile Phones",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.motorcycle-gear",
+    "name": "Motorcycle Gear",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Motorcycle Gear",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.musical-instruments-teachers",
+    "name": "Musical Instruments & Teachers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Musical Instruments & Teachers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.office-equipment",
+    "name": "Office Equipment",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Office Equipment",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.outlet-stores",
+    "name": "Outlet Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Outlet Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pawn-shops",
+    "name": "Pawn Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pawn Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.personal-shopping",
+    "name": "Personal Shopping",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Personal Shopping",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.photography-stores-services",
+    "name": "Photography Stores & Services",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Photography Stores & Services",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.pool-billiards",
+    "name": "Pool & Billiards",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Pool & Billiards",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.shopping-centers",
+    "name": "Shopping Centers",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Shopping Centers",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sporting-goods",
+    "name": "Sporting Goods",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sporting Goods",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.bikes",
+    "name": "Bikes",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Bikes",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.golf-equipment",
+    "name": "Golf Equipment",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Golf Equipment",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.outdoor-gear",
+    "name": "Outdoor Gear",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Outdoor Gear",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.sports-wear",
+    "name": "Sports Wear",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Sports Wear",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.thrift-stores",
+    "name": "Thrift Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Thrift Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.tobacco-shops",
+    "name": "Tobacco Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Tobacco Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.toy-stores",
+    "name": "Toy Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Toy Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.trophy-shops",
+    "name": "Trophy Shops",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Trophy Shops",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.uniforms",
+    "name": "Uniforms",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Uniforms",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.watches",
+    "name": "Watches",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Watches",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.wholesale-stores",
+    "name": "Wholesale Stores",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Wholesale Stores",
+    "parent_slug": "csa"
+  },
+  {
+    "slug": "csa.wigs",
+    "name": "Wigs",
+    "level": "secondary",
+    "primary": "Csa",
+    "secondary": "Wigs",
+    "parent_slug": "csa"
+  }
+]
