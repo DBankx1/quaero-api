@@ -106,3 +106,9 @@ async def get_businesses_by_relevant_categories(keywords: list[str], limit: int 
     businesses = await Business.aggregate(pipeline).to_list()
 
     return [Business(**business) for business in businesses]
+
+async def get_count_of_businesses() -> int:
+    """Gets the count of businessesn in the db"""
+    return await Business.get_pymongo_collection().estimated_document_count()
+
+     
