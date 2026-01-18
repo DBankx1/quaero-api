@@ -13,7 +13,6 @@ async def search(s: str, background_tasks: BackgroundTasks):
     result = await search_businesses(s, background_tasks)
     return result
 
-
 @router.get("/search/categories", response_model=list[Business])
 async def search_businesses_by_categories(
     category: list[str] = Query(..., description="List of category slugs to search for businesses"),

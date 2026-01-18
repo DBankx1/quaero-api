@@ -19,6 +19,8 @@ class Settings(BaseSettings):
     
     MONGODB_CORE_COLLECTION: str
     
+    BRAND_FETCH_CLIENT_ID: str
+    
     
 settings = Settings()  # type: ignore
 

@@ -5,9 +5,9 @@ import logging
 from beanie import BulkWriter
 from agents import Runner, trace
 from app.infrastructure.agents.business_agents import business_data_validation_agent
-import json
 
 from app.services import business
+from app.utils.to_json import businesses_to_json
 
 logger = logging.getLogger(__name__)
 
@@ -45,16 +45,9 @@ async def ingest_businesses_from_search(task_id: str, businesses_from_search: li
         
         if len(new_businesses) > 0:
            with trace("Business validation"):
-               result = await Runner.run(business_data_validation_agent, [
-                    {
-                        "role": "user",
-                        "content": biz.model_dump_json(),
-                    }
-                    for biz in new_businesses
-                ])
+               result = await Runner.run(business_data_validation_agent, businesses_to_json(new_businesses))
                
         await create_many_businesses(result.final_output)
-            
         
         logger.info(f"Ingestion task {task_id} completed with {len(new_businesses)} new businesses, and {len(db_matches)} updated businesses")
            
